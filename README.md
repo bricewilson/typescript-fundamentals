@@ -1,4 +1,4 @@
-# Debugging Sites with Chrome DevTools
+# TypeScript 5 Fundamentals
 
 This is the official repository for my Pluralsight course titled *TypeScript 5 Fundamentals*. 
 The *main* branch contains code as it 
